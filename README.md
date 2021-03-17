@@ -5,7 +5,7 @@ Um ou dois parágrafos sobre o projeto e o que ele faz.
 (Screenshot)
 ![screenshot](hqdefault.png)
 
-##Instalação
+## Instalação
 
 Mac OS X & Linux:
 
@@ -25,7 +25,7 @@ Alguns exemplos que motivariam as pessoas a utilizarem o projeto ou que demonstr
 ##Ambitente de desenvolvimento
 Descrever como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto seja executado localmente e as pessoas possam contribuir com o mesmo. Se possível, forneça as informações para diferentes plataformas, exemplo windows, linux e macOS
 
-##Histórico de atualizações
+## Histórico de atualizações
 
 * 0.2.1
     * CHANGE: Atualização dos docs(o código não foi alterado)
@@ -40,7 +40,7 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 * 0.0.1
     * Projeto Inicial
 
-##Meta
+## Meta
 
 Wellington Gouveia - [@W3LL1NGT0NG0UV](https://twitter.com/W3LL1NGT0NG0UV) - wellington.reguera@hotmail.com
 
