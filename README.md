@@ -22,7 +22,7 @@ edit autoexec.bat
 ## Exemplo de uso
 Alguns exemplos que motivariam as pessoas a utilizarem o projeto ou que demonstrasse que este é útil para alguma coisa. Divida esta parte em partes menores e se possível coloque algum código ou prints de telas.
 
-##Ambitente de desenvolvimento
+## Ambitente de desenvolvimento
 Descrever como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto seja executado localmente e as pessoas possam contribuir com o mesmo. Se possível, forneça as informações para diferentes plataformas, exemplo windows, linux e macOS
 
 ## Histórico de atualizações
